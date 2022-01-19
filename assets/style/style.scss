@@ -1,9 +1,9 @@
 ---
 ---
 
-#header nav ul li {
-    display: none;
-}
-
 @import "{{ site.theme }}";
 
+
+#header nav ul li a {
+    display: none;
+}
